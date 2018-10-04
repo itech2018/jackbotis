@@ -21,3 +21,6 @@ exports.run = (client, message, args) => {
         embed: embed
     });
 };
+module.exports.help = {
+  name: "8ball"
+}
