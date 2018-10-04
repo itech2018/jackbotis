@@ -11,7 +11,7 @@ exports.run = (client, message, params) => {
     }
   }
 };
-modul.exports.help = {
+module.exports.help = {
   name: 'help',
   description: 'Displays all the available commands for your permission level.',
   usage: 'help [command]'
